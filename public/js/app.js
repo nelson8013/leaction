@@ -69580,7 +69580,7 @@ var Home = function (_Component) {
                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
                     'h1',
                     null,
-                    'Laravel with React CRUD Application'
+                    'Simple Laravel with React CRUD Application'
                 )
             );
         }

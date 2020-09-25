@@ -5,7 +5,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <h1>Laravel with React CRUD Application</h1>
+                <h1>Simple Laravel with React CRUD Application</h1>
             </div>
         );
     }
